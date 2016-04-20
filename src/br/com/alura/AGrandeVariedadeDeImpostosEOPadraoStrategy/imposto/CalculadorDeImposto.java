@@ -1,4 +1,4 @@
-package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy;
+package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy.imposto;
 
 public class CalculadorDeImposto {
 

@@ -1,6 +1,8 @@
-package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy;
+package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy.investimento;
 
 import java.util.Random;
+
+import br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy.imposto.Conta;
 
 public class Arrojado implements Investimento{
 

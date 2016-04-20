@@ -1,4 +1,6 @@
-package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy;
+package br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy.investimento;
+
+import br.com.alura.AGrandeVariedadeDeImpostosEOPadraoStrategy.imposto.Conta;
 
 public class RealizadorDeInvestimentos {
 
